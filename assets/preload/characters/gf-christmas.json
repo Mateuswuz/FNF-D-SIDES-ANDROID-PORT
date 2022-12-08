@@ -3,8 +3,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				1,
-				0
+				0,
+				-8
 			],
 			"anim": "cheer",
 			"fps": 24,
@@ -59,7 +59,7 @@
 			"loop": false,
 			"offsets": [
 				-2,
-				-21
+				-42
 			],
 			"anim": "sad",
 			"fps": 24,
@@ -175,14 +175,14 @@
 	"image": "characters/gfChristmas",
 	"position": [
 		0,
-		0
+		-100
 	],
 	"healthicon": "gf",
 	"flip_x": false,
 	"healthbar_colors": [
-		165,
-		0,
-		77
+		249,
+		120,
+		95
 	],
 	"camera_position": [
 		0,
